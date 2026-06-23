@@ -9,7 +9,8 @@
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: libertymaster
 #github_username:  libertymaster
-name: 'Mundana'
+title: "The Liberty Emporium"
+name: "The Liberty Emporium"
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
